@@ -37,7 +37,7 @@ NOTE: full source code is written by Abir hasan, i just changed some codes and m
 	-  to set your group in start button.
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/junith7/filestore-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Junith7/filestore-bot/blob/main/README.md)
 
 ## Commands:
 ```
